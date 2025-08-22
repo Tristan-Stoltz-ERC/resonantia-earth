@@ -2,6 +2,8 @@
 
 > Cities Where Energy is Free - Building humanity's next chapter in 7 locations where renewable energy is essentially unlimited.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Tristan-Stoltz-ERC/resonantia-earth)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
